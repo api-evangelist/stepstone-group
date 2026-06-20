@@ -2,7 +2,7 @@ aid: stepstone-group
 url: https://raw.githubusercontent.com/api-evangelist/stepstone-group/refs/heads/main/apis.yml
 name: StepStone Group
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Private Markets
   - Investment
@@ -19,7 +19,7 @@ apis:
       - Private Markets
       - Investment
       - Data
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://api.stepstonegroup.com
     humanURL: https://developer.stepstonegroup.com
     properties:
