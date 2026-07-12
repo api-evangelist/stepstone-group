@@ -28,12 +28,16 @@ apis:
     description: >-
       The StepStone Group API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: DomainSecurity
+    url: security/stepstone-group-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/stepstone-tech
   - type: LinkedIn
     url: https://www.linkedin.com/company/stepstone-group
   - type: Website
     url: https://www.stepstonegroup.com
+  - type: Blog
+    url: https://stepstonegroup.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
