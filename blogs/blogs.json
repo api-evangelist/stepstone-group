@@ -1,0 +1,21 @@
+{
+  "repo": "stepstone-group",
+  "feeds": [
+    {
+      "source": "https://stepstonegroup.com/feed/",
+      "feed_url": "https://stepstonegroup.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.stepstonegroup.com",
+      "feed_url": "https://www.stepstonegroup.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 18
+}
