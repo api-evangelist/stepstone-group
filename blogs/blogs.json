@@ -9,6 +9,13 @@
       "method": "discovered"
     },
     {
+      "source": "https://www.stepstonegroup.com/blog/feed/",
+      "feed_url": "https://www.stepstonegroup.com/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://stepstonegroup.com/feed/",
       "feed_url": "https://stepstonegroup.com/feed/",
       "title": "",
@@ -23,8 +30,8 @@
       "method": "feed"
     }
   ],
-  "fetched": "2026-09-06T19:17:18Z",
-  "post_count": 28,
+  "fetched": "2026-09-13T13:00:00Z",
+  "post_count": 29,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
   "feed_nature_note": "Whether these posts are the vendor publishing or its support community, decided on the URL path grammar of the saved posts -- not the hostname, which carries both on Khoros, and not author diversity, which flags large vendor blogs as forums. 'undetermined' means undetermined."
